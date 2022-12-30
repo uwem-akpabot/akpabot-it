@@ -9,11 +9,11 @@ const HomePage = (props) => {
   // const pageTitle = 'Home';
 
   return (
-    <div>
+    <>
       <Navbar />
       <Service />
       <Footer />
-    </div>
+    </>
   )
 }
 
