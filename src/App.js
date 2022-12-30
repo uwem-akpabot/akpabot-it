@@ -9,7 +9,7 @@ import ContactPage from './pages/ContactPage';
 // import './App.css';
 
 function App() {
-  const caption = 'Triiiples';
+  const caption = 'Uwem Akpabot';
 
   return (
     <BrowserRouter>

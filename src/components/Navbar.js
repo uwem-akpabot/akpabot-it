@@ -20,7 +20,7 @@ const Navbar = () => {
 
             <nav className="navbar navbar-expand-lg navbar-dark py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
                 <a href="index.html" className="navbar-brand ms-4 ms-lg-0">
-                    <h1 className="fw-bold text-primary m-0">Chari<span className="text-white">Team</span></h1>
+                    <h1 className="fw-bold text-white m-0">akpabot<span className="text-primary">-it</span></h1>
                 </a>
                 <button type="button" className="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span className="navbar-toggler-icon"></span>
@@ -55,7 +55,7 @@ const Navbar = () => {
         </div>
         <div class="container-fluid page-header mb-5 wow fadeIn" data-wow-delay="0.1s">
             <div class="container text-center">
-                <h1 class="display-4 text-white animated slideInDown mb-4">Service</h1>
+                <h1 class="display-4 text-white animated slideInDown mb-4">Uwem Akpabot</h1>
                 <nav aria-label="breadcrumb animated slideInDown">
                     <ol class="breadcrumb justify-content-center mb-0">
                         <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>

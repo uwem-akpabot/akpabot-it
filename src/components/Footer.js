@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="container py-5">
             <div className="row g-5">
                 <div className="col-lg-3 col-md-6">
-                    <h1 className="fw-bold text-primary mb-4">Chari<span className="text-white">Team</span></h1>
+                <h1 className="fw-bold text-white m-0">akpabot<span className="text-primary">-it</span></h1>
                     <p>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita</p>
                     <div className="d-flex pt-2">
                         <a className="btn btn-square me-1" href=""><i className="fab fa-twitter"></i></a>
