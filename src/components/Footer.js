@@ -8,6 +8,7 @@ const Footer = () => {
             <div className="row g-5">
                 <div className="col-lg-3 col-md-6">
                 <h1 className="fw-bold text-white m-0">akpabot<span className="text-primary">-it</span></h1>
+                    <br />
                     <p>Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita</p>
                     <div className="d-flex pt-2">
                         <a className="btn btn-square me-1" href=""><i className="fab fa-twitter"></i></a>
@@ -18,9 +19,9 @@ const Footer = () => {
                 </div>
                 <div className="col-lg-3 col-md-6">
                     <h5 className="text-light mb-4">Address</h5>
-                    <p><i className="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                    <p><i className="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                    <p><i className="fa fa-envelope me-3"></i>info@example.com</p>
+                    <p><i className="fa fa-map-marker-alt me-3"></i>Abuja FCT, Nigeria</p>
+                    <p><i className="fa fa-phone-alt me-3"></i>+234 (0)816-266-5633</p>
+                    <p><i className="fa fa-globe me-3"></i>akpabot-it.com</p>
                 </div>
                 <div className="col-lg-3 col-md-6">
                     <h5 className="text-light mb-4">Quick Links</h5>
@@ -44,10 +45,10 @@ const Footer = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a href="#">Name</a>. All rights reserved.
+                        &copy; <a href="#">Uwemedimo Edem Akpabot</a>. All rights reserved.
                     </div>
                     <div className="col-md-6 text-center text-md-end">
-                        Developer: <a href="#">Me</a>
+                        Developer: <a href="#">Me (Uncle Life)</a>
                     </div>
                 </div>
             </div>

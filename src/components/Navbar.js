@@ -7,11 +7,11 @@ const Navbar = () => {
         <div className="container-fluid fixed-top px-0 wow fadeIn" data-wow-delay="0.1s">
             <div className="top-bar text-white-50 row gx-0 align-items-center d-none d-lg-flex">
                 <div className="col-lg-6 px-5 text-start">
-                    <small><i className="fa fa-map-marker-alt me-2"></i>123 Street, New York, USA</small>
-                    <small className="ms-4"><i className="fa fa-envelope me-2"></i>info@example.com</small>
+                    <small><i className="fa fa-map-marker-alt me-2"></i>Abuja FCT, Nigeria</small>
+                    <small className="ms-4"><i className="fa fa-phone me-2"></i>+234 (0)816-266-5633</small>
                 </div>
                 <div className="col-lg-6 px-5 text-end">
-                    <small>Follow us:</small>
+                    <small>Follow me:</small>
                     <a className="text-white-50 ms-3" href=""><i className="fab fa-facebook-f"></i></a>
                     <a className="text-white-50 ms-3" href=""><i className="fab fa-twitter"></i></a>
                     <a className="text-white-50 ms-3" href=""><i className="fab fa-linkedin-in"></i></a>
@@ -51,9 +51,9 @@ const Navbar = () => {
                 <Outlet />
             </nav>
         </div>
-        <div class="container-fluid page-header mb-5 wow fadeIn" data-wow-delay="0.1s">
+        <div class="container-fluid page-header mb-5" data-wow-delay="0.1s">
             <div class="container text-center">
-                <h1 class="display-4 text-white animated slideInDown mb-4">Uwem Akpabot</h1>
+                <h1 class="display-4 text-white mb-4">Uwem Akpabot</h1>
                 <nav aria-label="breadcrumb animated slideInDown">
                     <ol class="breadcrumb justify-content-center mb-0">
                         <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
