@@ -5,8 +5,8 @@ const Feature = () => {
     <div className="container-xxl py-5">
         <div className="container">
             <div className="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style={{maxWidth:'600px'}}>
-                <div className="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">What I Do</div>
-                <h1 className="display-6 mb-5">I am an enthusiastic Full-Stack Software Developer</h1>
+                <div className="d-inline-block rounded-pill bg-secondary text-primary py-1 px-3 mb-3">Welcome to my website!</div>
+                <h1 className="display-6 mb-5">I am a competent Full-Stack Software Developer</h1>
             </div>
             <div className="row g-4 justify-content-center">
                 <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
